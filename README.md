@@ -1,4 +1,8 @@
-<!-- hide -->
+View output
+https://boliviteri.github.io/PostCard/
+
+
+
 # The Postcard
 <!-- endhide -->
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
